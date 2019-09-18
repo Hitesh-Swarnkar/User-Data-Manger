@@ -64,5 +64,4 @@ public class UserSearchService {
 		return user;
 	}
 
-
 }
